@@ -14,8 +14,12 @@ container {
     text-align: center;
 }
 button {
-    background: #6c63ff
+    background: #ff4d6d
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 15px 30px;
+    border-radius: 8px;
+}
+button:hover {
+    background: #e63956;
 }
